@@ -1,0 +1,20 @@
+---
+title: "A Broken Dream"
+subtitle: My Story
+description: In this post I share the background of why I want to study deep learning, how I got to know about fast.ai, the struggles, and the way ahead.  
+author: "Abdullah Zeeshan"
+date: "2023-06-20"
+categories: [announcement]
+reading-time: True
+toc: true
+fig-align: center
+fig-cap-location: bottom
+---
+
+Right from the beginning of writing this I have a feeling that it is going to me one of the hardest post I will ever write. The struggle is an emotional one. It is my story of how ...
+
+![](wait-what.gif)
+
+***I think it will be better if I write about all of this once I finish the fast.ai course. Let us buckle up get to it baby!***
+
+See ya' later! 
