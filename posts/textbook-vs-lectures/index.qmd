@@ -1,0 +1,20 @@
+---
+title: "Textbook VS Lectures"
+subtitle: How I am using them
+description: A short log 
+author: "Abdullah Zeeshan"
+date: "2023-06-21"
+categories: [general]
+reading-time: True
+toc: true
+fig-align: center
+fig-cap-location: bottom
+---
+
+> The primary study material I use is the textbook and I use the lectures to supplement it.
+
+I love the textbook. I got hooked with its style. The authors literally take you on a journey of deep learning and you don't want to jump off the train in the middle. I can say it is one of my favourite textbooks.
+
+The lectures provide fresh new percpectives on the things mentioned in the textbook. This helps learn better. 
+
+Syntopically consuming both the textbook and the lectures is the best way to get the most out of it. 

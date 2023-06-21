@@ -1,0 +1,23 @@
+---
+title: "I Need To Work On The 4-Legged Thing"
+subtitle: Coding, Editor, git, Linux
+description: An update  
+author: "Abdullah Zeeshan"
+date: "2023-06-21"
+categories: [general]
+reading-time: True
+toc: true
+fig-align: center
+fig-cap-location: bottom
+---
+
+![](four_legged.png)
+
+In order to be a great deep learning practitioner, it was adviced by Jeremy and putforward by Radek to master this idea of the "4-legged" table. 
+
+I need to work on these things in a structured way. I have been Googling stuff around to find various things. Apart from doing the PDLC course, I will be spending some time daily working on these things. My coding skills aren't sharp as well at the moment.
+
+Here are the pages where I will be documenting this stuff:
+
+- [Leg 1](https://zed4zee.github.io/python/) 
+- [Leg 2, 3, 4](https://zed4zee.github.io/sc)
