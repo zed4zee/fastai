@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://zed4zee.github.io/learning-ai/posts/four_legged/index.html</loc>
+    <lastmod>2023-06-21T08:46:03.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zed4zee.github.io/learning-ai/posts/textbook-vs-lectures/index.html</loc>
+    <lastmod>2023-06-21T08:46:04.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zed4zee.github.io/learning-ai/posts/where-i-am-currently/index.html</loc>
+    <lastmod>2023-06-21T08:46:05.286Z</lastmod>
+  </url>
+  <url>
     <loc>https://zed4zee.github.io/learning-ai/posts/background/index.html</loc>
-    <lastmod>2023-06-20T10:50:53.608Z</lastmod>
+    <lastmod>2023-06-21T08:46:05.776Z</lastmod>
   </url>
   <url>
     <loc>https://zed4zee.github.io/learning-ai/index.html</loc>
-    <lastmod>2023-06-20T10:50:53.978Z</lastmod>
+    <lastmod>2023-06-21T08:46:06.586Z</lastmod>
   </url>
 </urlset>

@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/four_legged/index.html",
+      "/posts/textbook-vs-lectures/index.html",
+      "/posts/where-i-am-currently/index.html",
       "/posts/background/index.html"
     ]
   }
